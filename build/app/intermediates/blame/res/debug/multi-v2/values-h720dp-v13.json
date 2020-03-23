@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\Eugen - Work\\AndroidStudioProjects\\Flutter-OCR-Scanner\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Eugen - Work\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\1a0c599ca24f91e4087373fa48fa67ca\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "source": "C:\\Users\\Eugen - Work\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\4e41990d986f6c34c18e6c11a49fa878\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
