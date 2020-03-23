@@ -8,7 +8,7 @@
       "name": "Flutter",
       "request": "launch",
       "type": "dart",
-      "program": "lib/sanner.dart"
+      "program": "lib/scanner/sanner.dart"
     }
   ]
 }

@@ -12,7 +12,6 @@ public final class R {
     public static final class attr {
         private attr() {}
 
-        public static int alpha = 0x7f040028;
         public static int font = 0x7f040095;
         public static int fontProviderAuthority = 0x7f040097;
         public static int fontProviderCerts = 0x7f040098;
@@ -21,9 +20,12 @@ public final class R {
         public static int fontProviderPackage = 0x7f04009b;
         public static int fontProviderQuery = 0x7f04009c;
         public static int fontStyle = 0x7f04009d;
-        public static int fontVariationSettings = 0x7f04009e;
         public static int fontWeight = 0x7f04009f;
-        public static int ttcIndex = 0x7f040159;
+    }
+    public static final class bool {
+        private bool() {}
+
+        public static int abc_action_bar_embed_tabs = 0x7f050001;
     }
     public static final class color {
         private color() {}
@@ -41,8 +43,6 @@ public final class R {
         public static int compat_button_padding_horizontal_material = 0x7f08004e;
         public static int compat_button_padding_vertical_material = 0x7f08004f;
         public static int compat_control_corner_material = 0x7f080050;
-        public static int compat_notification_large_icon_max_height = 0x7f080051;
-        public static int compat_notification_large_icon_max_width = 0x7f080052;
         public static int notification_action_icon_size = 0x7f080088;
         public static int notification_action_text_size = 0x7f080089;
         public static int notification_big_circle_margin = 0x7f08008a;
@@ -100,8 +100,6 @@ public final class R {
         public static int right_icon = 0x7f0c005c;
         public static int right_side = 0x7f0c005d;
         public static int tag_transition_group = 0x7f0c0080;
-        public static int tag_unhandled_key_event_manager = 0x7f0c0081;
-        public static int tag_unhandled_key_listeners = 0x7f0c0082;
         public static int text = 0x7f0c0083;
         public static int text2 = 0x7f0c0084;
         public static int time = 0x7f0c008a;
@@ -141,10 +139,6 @@ public final class R {
     public static final class styleable {
         private styleable() {}
 
-        public static int[] ColorStateListItem = { 0x7f040028, 0x101031f, 0x10101a5 };
-        public static int ColorStateListItem_alpha = 0;
-        public static int ColorStateListItem_android_alpha = 1;
-        public static int ColorStateListItem_android_color = 2;
         public static int[] FontFamily = { 0x7f040097, 0x7f040098, 0x7f040099, 0x7f04009a, 0x7f04009b, 0x7f04009c };
         public static int FontFamily_fontProviderAuthority = 0;
         public static int FontFamily_fontProviderCerts = 1;
@@ -163,21 +157,5 @@ public final class R {
         public static int FontFamilyFont_fontVariationSettings = 7;
         public static int FontFamilyFont_fontWeight = 8;
         public static int FontFamilyFont_ttcIndex = 9;
-        public static int[] GradientColor = { 0x101020b, 0x10101a2, 0x10101a3, 0x101019e, 0x1010512, 0x1010513, 0x10101a4, 0x101019d, 0x1010510, 0x1010511, 0x1010201, 0x10101a1 };
-        public static int GradientColor_android_centerColor = 0;
-        public static int GradientColor_android_centerX = 1;
-        public static int GradientColor_android_centerY = 2;
-        public static int GradientColor_android_endColor = 3;
-        public static int GradientColor_android_endX = 4;
-        public static int GradientColor_android_endY = 5;
-        public static int GradientColor_android_gradientRadius = 6;
-        public static int GradientColor_android_startColor = 7;
-        public static int GradientColor_android_startX = 8;
-        public static int GradientColor_android_startY = 9;
-        public static int GradientColor_android_tileMode = 10;
-        public static int GradientColor_android_type = 11;
-        public static int[] GradientColorItem = { 0x10101a5, 0x1010514 };
-        public static int GradientColorItem_android_color = 0;
-        public static int GradientColorItem_android_offset = 1;
     }
 }

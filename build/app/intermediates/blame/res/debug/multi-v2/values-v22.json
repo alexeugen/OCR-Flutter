@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Eugen - Work\\AndroidStudioProjects\\Flutter-OCR-Scanner\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
+            "outputFile": "C:\\Users\\stefa\\AndroidStudioProjects\\OCR-Flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Eugen - Work\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\1a0c599ca24f91e4087373fa48fa67ca\\res\\values-v22\\values-v22.xml",
+                    "source": "C:\\Users\\stefa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\c29235ba26ef0914ef6a0421e87131d1\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

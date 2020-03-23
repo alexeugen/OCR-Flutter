@@ -1,246 +1,472 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:1:1-39:12
-INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:1:1-39:12
-INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:1:1-39:12
-INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:1:1-39:12
-MERGED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:1:1-39:12
-MERGED from [:flutter_mobile_vision] C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\build\flutter_mobile_vision\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
-MERGED from [com.android.support:design:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\155385c2e8afd126a80da8517d36a29e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\46cdc2fb0a742dc9c848f06338fb5498\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\538f913eaf5387f3bacc7552b13fe464\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\bf1c69bcc3b90a0466f9e0ad54c40119\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\890e5e4415125d9bfb14b7810f6a1459\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\0e21d96b41cc769c6604b56a9dd92861\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\323ae93e7fa6d6d5282314ee25e3a208\AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\4f8dfd2e283bef66f2e9ce677af229db\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1d228aadc81cc741a07885bd3bef5b4b\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\1a60d7853ba56fe7384effe0a77f4fc1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1a0c599ca24f91e4087373fa48fa67ca\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\87d3632b94f06e5687701aafa7e7449d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\bd984a70fd0ff93357b5f1c83995d607\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\df642e1c700419f566877f3cc66b77ae\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a93b26142f4e933883a6d859d7ee5bb1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\6e1b67a643faf5e61d6595fa1421b8c6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9678099d7005a8acdfc27973ebccc3b5\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\149459305fcc2d500b55d0ae65164158\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\119d86ce88400279248f3b8890e54f19\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9e29088fd22d8d06f3699ac1b08787ee\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\18294ca8b9d3c8d9eaded34001401d1d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\de2b59beea7161d58f3b924e223d55d6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ff52f7f2d8c068246cc6f45ddd7a2beb\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\eb13168adc490ecfc0597c8e039b76a0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\5f2dbbc4e8b0c0aee81f5aa67ed497db\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\53d829c5c740e183c8f86aa23cf40c4a\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\17d0b482d302d0c65bf6292d0859571c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\83c31cc12616c11bce947647b2cb892a\AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bed472a31f93fd858fa9c03a3fbf497f\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\638ae7f905926875ccd8b7d04b7bfac5\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\df8d6942f11459e527538dc3e8e10016\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\af0543f4b4aa4603fb47495915e21b89\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\db4d0f2cba371fffc2b6a04637d38514\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c899848d3bdc97c44185deedf97b3b45\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\af4afc1d66150359a02c4ddaccdebc7c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\72b35d70303e1bfaf62300e235900014\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6bec9fed237f7634ea8510de03721348\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\14e311f09ca45429d3054e2fb1704f1e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\9157092d77426b724be211985d9425ff\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
+MERGED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
+MERGED from [:flutter_mobile_vision] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\flutter_mobile_vision\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_storage] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_storage\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_auth] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_auth_web] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_auth_web\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:cloud_firestore] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore_web] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\cloud_firestore_web\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_core] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core_web] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_core_web\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\flutter_plugin_android_lifecycle\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\f06d18991d4c46cd6e50854d3206b2e0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\0073560ee2ae5e4ea00bc6a6d45267df\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-firestore-21.3.0.aar\8627136154404d0524552e881a6d7bae\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\66d129e628896332bd2e652b232b1e72\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-19.0.0.aar\e0475852c5c1624e87001ebd9ebf69d3\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-common-19.3.0.aar\f70b8392b38212badf278b9ec5c49551\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\35d1f7f997feabb8d7cb87f9ff25afa3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\4ce1f0a40d4dc173940a686fa97850f8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\5e7e95a15bc5e7b0465ea54c4de93ad1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\79c3010c2f68ccb6f60f575b5f9131b7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\0ce947585c860b20a6bddc78642a95e6\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\9e1eb4ff3a9e4ff0e2711fb044f7dade\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-basement-17.0.0.aar\4aef385a0e333faf84f5008a9ac2f069\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\dc8224c30db9208958df1ddd39dbf358\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\862c9800110976398d5692d72a544444\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\df101e677853f483fd5c653718c7c7c6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\4e9b40ec6793cbf0631924e32fe56c81\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\f6a038d54a830847bc58b938a61629f5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\32ce42a5b63687bd8ab2830a50c8487f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\55992ce7745666119ceb1e53fb69280b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\4207cf76e720a63d1a3f0c3af0c08a3a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\6a56bc2f3a71c52abda74db199d04f03\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\8339cb7921714e7dfd19aeccba39128a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\bd1481db312961a97679f52e302c86d4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a04e8c06d15ac20afc33d9e91a67cff6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\3e1c0c093f442318a734d610fe696e4f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\1ea3535e948c321963c4060251f0d34b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\0606c7bee916f1d1a9145222029b3669\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-components-16.0.0.aar\903c2cfe3d74d01ea29dd41b7d68435b\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d29e0607b3e78316bc4af026ff0642b1\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\bf5801dc970f692a2540b73176203a9d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\d3facc68473d1e4c5cb87086e5f98f2d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\0c897e4f5aa65b7ada9dc98e3683629d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\589dce47d59054058fa45a1931e07f2a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\03303a03171ff49d85b24ae84df68ceb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\b9767f9586d5654db2f428f17153b857\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\e2cb71097157b1f29c4fa17dbc40f2b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\03465c3c7bc8a401e706bece0e8a3bb4\AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\grpc-android-1.21.0.aar\1416760531156f1220ea15e312fbfdfc\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a62eb5ec935d1e264262e3bd2228ea27\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c29235ba26ef0914ef6a0421e87131d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ce1fae3a0de97a96fb99fa2999886616\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\936ee6dd133333150d057ea23e25a5bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-17.0.0.aar\fb630432da017ea4614cb7ad7591fb85\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-17.0.0.aar\25e9e6b3343e636c2cefb0ef26aa060a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f66f06d03461713ffb0a1ca1109bd9af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\fa5abd918d0032e52028dd5220e0bc29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\068bb9f9fd3e8f083442914a3c1529e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\de65a9f0f5787ab9364ea23125f17279\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7d13b031cf5a7b465dddc4b4c96a2026\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\aff3b2764475c1383b1e98387377399c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6d549e58cefe8029ac4d0853abf7fd27\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dc875f447ced21dda9a8a5d01ad8180f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ed3944cece454afb5263a3c091dbe7be\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1b1068afc887b9aab66a6fa1f2fcd2ba\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\14c668f8e79a9cdf0a0f049da754ec28\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 	package
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:2:5-39
-		INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\debug\AndroidManifest.xml
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:2:5-39
+		INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\debug\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:1:1-39:12
-		INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\debug\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:1:1-39:12
-		INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-feature#android.hardware.camera
-ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:10:5-60
+ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:10:5-60
 	android:name
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:10:19-57
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:10:19-57
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:11:5-67
-MERGED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:11:5-67
-MERGED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:11:5-67
+ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\0073560ee2ae5e4ea00bc6a6d45267df\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\0073560ee2ae5e4ea00bc6a6d45267df\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-firestore-21.3.0.aar\8627136154404d0524552e881a6d7bae\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-firestore-21.3.0.aar\8627136154404d0524552e881a6d7bae\AndroidManifest.xml:14:5-67
 	android:name
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:11:22-64
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:11:22-64
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:13:5-65
+ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:13:5-65
 	android:name
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:13:22-62
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:13:22-62
 application
-ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:14:5-38:19
-MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\46cdc2fb0a742dc9c848f06338fb5498\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\46cdc2fb0a742dc9c848f06338fb5498\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\538f913eaf5387f3bacc7552b13fe464\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\538f913eaf5387f3bacc7552b13fe464\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\bf1c69bcc3b90a0466f9e0ad54c40119\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\bf1c69bcc3b90a0466f9e0ad54c40119\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\0e21d96b41cc769c6604b56a9dd92861\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\0e21d96b41cc769c6604b56a9dd92861\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\323ae93e7fa6d6d5282314ee25e3a208\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\323ae93e7fa6d6d5282314ee25e3a208\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\4f8dfd2e283bef66f2e9ce677af229db\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\4f8dfd2e283bef66f2e9ce677af229db\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1d228aadc81cc741a07885bd3bef5b4b\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1d228aadc81cc741a07885bd3bef5b4b\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\83c31cc12616c11bce947647b2cb892a\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\83c31cc12616c11bce947647b2cb892a\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c899848d3bdc97c44185deedf97b3b45\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c899848d3bdc97c44185deedf97b3b45\AndroidManifest.xml:22:5-23:19
+ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:14:5-38:19
+MERGED from [:firebase_storage] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_storage\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_storage\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:10:5-20:19
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\f06d18991d4c46cd6e50854d3206b2e0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\f06d18991d4c46cd6e50854d3206b2e0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\0073560ee2ae5e4ea00bc6a6d45267df\AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\0073560ee2ae5e4ea00bc6a6d45267df\AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-firestore-21.3.0.aar\8627136154404d0524552e881a6d7bae\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-firestore-21.3.0.aar\8627136154404d0524552e881a6d7bae\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\66d129e628896332bd2e652b232b1e72\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\66d129e628896332bd2e652b232b1e72\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-19.0.0.aar\e0475852c5c1624e87001ebd9ebf69d3\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-19.0.0.aar\e0475852c5c1624e87001ebd9ebf69d3\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-common-19.3.0.aar\f70b8392b38212badf278b9ec5c49551\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-common-19.3.0.aar\f70b8392b38212badf278b9ec5c49551\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\35d1f7f997feabb8d7cb87f9ff25afa3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\35d1f7f997feabb8d7cb87f9ff25afa3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\4ce1f0a40d4dc173940a686fa97850f8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\4ce1f0a40d4dc173940a686fa97850f8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\79c3010c2f68ccb6f60f575b5f9131b7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\79c3010c2f68ccb6f60f575b5f9131b7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\0ce947585c860b20a6bddc78642a95e6\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\0ce947585c860b20a6bddc78642a95e6\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\9e1eb4ff3a9e4ff0e2711fb044f7dade\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\9e1eb4ff3a9e4ff0e2711fb044f7dade\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-basement-17.0.0.aar\4aef385a0e333faf84f5008a9ac2f069\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-basement-17.0.0.aar\4aef385a0e333faf84f5008a9ac2f069\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a04e8c06d15ac20afc33d9e91a67cff6\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a04e8c06d15ac20afc33d9e91a67cff6\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d29e0607b3e78316bc4af026ff0642b1\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d29e0607b3e78316bc4af026ff0642b1\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\83c31cc12616c11bce947647b2cb892a\AndroidManifest.xml:22:18-91
+		ADDED from [androidx.core:core:1.0.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a04e8c06d15ac20afc33d9e91a67cff6\AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:16:9-36
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:16:9-36
 	android:icon
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:17:9-43
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:17:9-43
 	android:name
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:15:9-57
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:15:9-57
 activity#com.jitsm555.flutter_app.MainActivity
-ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:18:9-36:20
+ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:18:9-36:20
 	android:launchMode
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:20:13-43
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:20:13-43
 	android:hardwareAccelerated
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:23:13-47
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:23:13-47
 	android:windowSoftInputMode
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:24:13-55
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:24:13-55
 	android:configChanges
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:22:13-144
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:22:13-144
 	android:theme
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:21:13-47
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:21:13-47
 	android:name
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:19:13-41
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:19:13-41
 meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
-ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:29:13-31:40
+ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:29:13-31:40
 	android:value
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:31:17-37
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:31:17-37
 	android:name
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:30:17-82
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:30:17-82
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:32:13-35:29
+ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:32:13-35:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:33:17-68
+ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:33:17-68
 	android:name
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:33:25-66
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:33:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:34:17-76
+ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:34:17-76
 	android:name
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:34:27-74
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:34:27-74
 activity#io.github.edufolly.fluttermobilevision.ocr.OcrCaptureActivity
-ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:37:9-98
+ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:37:9-98
 	android:name
-		ADDED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml:37:19-95
+		ADDED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml:37:19-95
 uses-sdk
-INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml
-MERGED from [:flutter_mobile_vision] C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\build\flutter_mobile_vision\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
-MERGED from [:flutter_mobile_vision] C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\build\flutter_mobile_vision\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:design:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\155385c2e8afd126a80da8517d36a29e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\155385c2e8afd126a80da8517d36a29e\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\46cdc2fb0a742dc9c848f06338fb5498\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\46cdc2fb0a742dc9c848f06338fb5498\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\538f913eaf5387f3bacc7552b13fe464\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\538f913eaf5387f3bacc7552b13fe464\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\bf1c69bcc3b90a0466f9e0ad54c40119\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\bf1c69bcc3b90a0466f9e0ad54c40119\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\890e5e4415125d9bfb14b7810f6a1459\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\890e5e4415125d9bfb14b7810f6a1459\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\0e21d96b41cc769c6604b56a9dd92861\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\0e21d96b41cc769c6604b56a9dd92861\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\323ae93e7fa6d6d5282314ee25e3a208\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\323ae93e7fa6d6d5282314ee25e3a208\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\4f8dfd2e283bef66f2e9ce677af229db\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\4f8dfd2e283bef66f2e9ce677af229db\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1d228aadc81cc741a07885bd3bef5b4b\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1d228aadc81cc741a07885bd3bef5b4b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\1a60d7853ba56fe7384effe0a77f4fc1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\1a60d7853ba56fe7384effe0a77f4fc1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1a0c599ca24f91e4087373fa48fa67ca\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1a0c599ca24f91e4087373fa48fa67ca\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\87d3632b94f06e5687701aafa7e7449d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\87d3632b94f06e5687701aafa7e7449d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\bd984a70fd0ff93357b5f1c83995d607\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\bd984a70fd0ff93357b5f1c83995d607\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\df642e1c700419f566877f3cc66b77ae\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\df642e1c700419f566877f3cc66b77ae\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a93b26142f4e933883a6d859d7ee5bb1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a93b26142f4e933883a6d859d7ee5bb1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\6e1b67a643faf5e61d6595fa1421b8c6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\6e1b67a643faf5e61d6595fa1421b8c6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9678099d7005a8acdfc27973ebccc3b5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9678099d7005a8acdfc27973ebccc3b5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\149459305fcc2d500b55d0ae65164158\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\149459305fcc2d500b55d0ae65164158\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\119d86ce88400279248f3b8890e54f19\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\119d86ce88400279248f3b8890e54f19\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9e29088fd22d8d06f3699ac1b08787ee\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9e29088fd22d8d06f3699ac1b08787ee\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\18294ca8b9d3c8d9eaded34001401d1d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\18294ca8b9d3c8d9eaded34001401d1d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\de2b59beea7161d58f3b924e223d55d6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\de2b59beea7161d58f3b924e223d55d6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ff52f7f2d8c068246cc6f45ddd7a2beb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ff52f7f2d8c068246cc6f45ddd7a2beb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\eb13168adc490ecfc0597c8e039b76a0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\eb13168adc490ecfc0597c8e039b76a0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\5f2dbbc4e8b0c0aee81f5aa67ed497db\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\5f2dbbc4e8b0c0aee81f5aa67ed497db\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\53d829c5c740e183c8f86aa23cf40c4a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\53d829c5c740e183c8f86aa23cf40c4a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\17d0b482d302d0c65bf6292d0859571c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\17d0b482d302d0c65bf6292d0859571c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\83c31cc12616c11bce947647b2cb892a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\83c31cc12616c11bce947647b2cb892a\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bed472a31f93fd858fa9c03a3fbf497f\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bed472a31f93fd858fa9c03a3fbf497f\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\638ae7f905926875ccd8b7d04b7bfac5\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\638ae7f905926875ccd8b7d04b7bfac5\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\df8d6942f11459e527538dc3e8e10016\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\df8d6942f11459e527538dc3e8e10016\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\af0543f4b4aa4603fb47495915e21b89\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\af0543f4b4aa4603fb47495915e21b89\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\db4d0f2cba371fffc2b6a04637d38514\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\db4d0f2cba371fffc2b6a04637d38514\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c899848d3bdc97c44185deedf97b3b45\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c899848d3bdc97c44185deedf97b3b45\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\af4afc1d66150359a02c4ddaccdebc7c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\af4afc1d66150359a02c4ddaccdebc7c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\72b35d70303e1bfaf62300e235900014\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\72b35d70303e1bfaf62300e235900014\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6bec9fed237f7634ea8510de03721348\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6bec9fed237f7634ea8510de03721348\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\14e311f09ca45429d3054e2fb1704f1e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\14e311f09ca45429d3054e2fb1704f1e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\9157092d77426b724be211985d9425ff\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\9157092d77426b724be211985d9425ff\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\debug\AndroidManifest.xml
-INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml
+MERGED from [:flutter_mobile_vision] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\flutter_mobile_vision\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_mobile_vision] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\flutter_mobile_vision\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_storage\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_storage\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth_web] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_auth_web\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth_web] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_auth_web\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore_web] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\cloud_firestore_web\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore_web] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\cloud_firestore_web\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_core_web\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_core_web\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\flutter_plugin_android_lifecycle\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\flutter_plugin_android_lifecycle\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\f06d18991d4c46cd6e50854d3206b2e0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\f06d18991d4c46cd6e50854d3206b2e0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\0073560ee2ae5e4ea00bc6a6d45267df\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\0073560ee2ae5e4ea00bc6a6d45267df\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-firestore-21.3.0.aar\8627136154404d0524552e881a6d7bae\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-firestore-21.3.0.aar\8627136154404d0524552e881a6d7bae\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\66d129e628896332bd2e652b232b1e72\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\66d129e628896332bd2e652b232b1e72\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-19.0.0.aar\e0475852c5c1624e87001ebd9ebf69d3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-19.0.0.aar\e0475852c5c1624e87001ebd9ebf69d3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-common-19.3.0.aar\f70b8392b38212badf278b9ec5c49551\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-common-19.3.0.aar\f70b8392b38212badf278b9ec5c49551\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\35d1f7f997feabb8d7cb87f9ff25afa3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\35d1f7f997feabb8d7cb87f9ff25afa3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\4ce1f0a40d4dc173940a686fa97850f8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\4ce1f0a40d4dc173940a686fa97850f8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\5e7e95a15bc5e7b0465ea54c4de93ad1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\5e7e95a15bc5e7b0465ea54c4de93ad1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\79c3010c2f68ccb6f60f575b5f9131b7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\79c3010c2f68ccb6f60f575b5f9131b7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\0ce947585c860b20a6bddc78642a95e6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\0ce947585c860b20a6bddc78642a95e6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\9e1eb4ff3a9e4ff0e2711fb044f7dade\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\9e1eb4ff3a9e4ff0e2711fb044f7dade\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-basement-17.0.0.aar\4aef385a0e333faf84f5008a9ac2f069\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-basement-17.0.0.aar\4aef385a0e333faf84f5008a9ac2f069\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\dc8224c30db9208958df1ddd39dbf358\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\dc8224c30db9208958df1ddd39dbf358\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\862c9800110976398d5692d72a544444\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\862c9800110976398d5692d72a544444\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\df101e677853f483fd5c653718c7c7c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\df101e677853f483fd5c653718c7c7c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\4e9b40ec6793cbf0631924e32fe56c81\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\4e9b40ec6793cbf0631924e32fe56c81\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\f6a038d54a830847bc58b938a61629f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\f6a038d54a830847bc58b938a61629f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\32ce42a5b63687bd8ab2830a50c8487f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\32ce42a5b63687bd8ab2830a50c8487f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\55992ce7745666119ceb1e53fb69280b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\55992ce7745666119ceb1e53fb69280b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\4207cf76e720a63d1a3f0c3af0c08a3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\4207cf76e720a63d1a3f0c3af0c08a3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\6a56bc2f3a71c52abda74db199d04f03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\6a56bc2f3a71c52abda74db199d04f03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\8339cb7921714e7dfd19aeccba39128a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\8339cb7921714e7dfd19aeccba39128a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\bd1481db312961a97679f52e302c86d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\bd1481db312961a97679f52e302c86d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a04e8c06d15ac20afc33d9e91a67cff6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a04e8c06d15ac20afc33d9e91a67cff6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\3e1c0c093f442318a734d610fe696e4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\3e1c0c093f442318a734d610fe696e4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\1ea3535e948c321963c4060251f0d34b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\1ea3535e948c321963c4060251f0d34b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\0606c7bee916f1d1a9145222029b3669\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\0606c7bee916f1d1a9145222029b3669\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-components-16.0.0.aar\903c2cfe3d74d01ea29dd41b7d68435b\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-components-16.0.0.aar\903c2cfe3d74d01ea29dd41b7d68435b\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d29e0607b3e78316bc4af026ff0642b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d29e0607b3e78316bc4af026ff0642b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\bf5801dc970f692a2540b73176203a9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\bf5801dc970f692a2540b73176203a9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\d3facc68473d1e4c5cb87086e5f98f2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\d3facc68473d1e4c5cb87086e5f98f2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\0c897e4f5aa65b7ada9dc98e3683629d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\0c897e4f5aa65b7ada9dc98e3683629d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\589dce47d59054058fa45a1931e07f2a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\589dce47d59054058fa45a1931e07f2a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\03303a03171ff49d85b24ae84df68ceb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\03303a03171ff49d85b24ae84df68ceb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\b9767f9586d5654db2f428f17153b857\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\b9767f9586d5654db2f428f17153b857\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\e2cb71097157b1f29c4fa17dbc40f2b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\e2cb71097157b1f29c4fa17dbc40f2b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\03465c3c7bc8a401e706bece0e8a3bb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\03465c3c7bc8a401e706bece0e8a3bb4\AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\grpc-android-1.21.0.aar\1416760531156f1220ea15e312fbfdfc\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\grpc-android-1.21.0.aar\1416760531156f1220ea15e312fbfdfc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a62eb5ec935d1e264262e3bd2228ea27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a62eb5ec935d1e264262e3bd2228ea27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c29235ba26ef0914ef6a0421e87131d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c29235ba26ef0914ef6a0421e87131d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ce1fae3a0de97a96fb99fa2999886616\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ce1fae3a0de97a96fb99fa2999886616\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\936ee6dd133333150d057ea23e25a5bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\936ee6dd133333150d057ea23e25a5bf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-17.0.0.aar\fb630432da017ea4614cb7ad7591fb85\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-17.0.0.aar\fb630432da017ea4614cb7ad7591fb85\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-17.0.0.aar\25e9e6b3343e636c2cefb0ef26aa060a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-17.0.0.aar\25e9e6b3343e636c2cefb0ef26aa060a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f66f06d03461713ffb0a1ca1109bd9af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f66f06d03461713ffb0a1ca1109bd9af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\fa5abd918d0032e52028dd5220e0bc29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\fa5abd918d0032e52028dd5220e0bc29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\068bb9f9fd3e8f083442914a3c1529e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\068bb9f9fd3e8f083442914a3c1529e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\de65a9f0f5787ab9364ea23125f17279\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\de65a9f0f5787ab9364ea23125f17279\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7d13b031cf5a7b465dddc4b4c96a2026\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7d13b031cf5a7b465dddc4b4c96a2026\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\aff3b2764475c1383b1e98387377399c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\aff3b2764475c1383b1e98387377399c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6d549e58cefe8029ac4d0853abf7fd27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6d549e58cefe8029ac4d0853abf7fd27\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dc875f447ced21dda9a8a5d01ad8180f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dc875f447ced21dda9a8a5d01ad8180f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ed3944cece454afb5263a3c091dbe7be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ed3944cece454afb5263a3c091dbe7be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1b1068afc887b9aab66a6fa1f2fcd2ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1b1068afc887b9aab66a6fa1f2fcd2ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\14c668f8e79a9cdf0a0f049da754ec28\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\14c668f8e79a9cdf0a0f049da754ec28\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Eugen - Work\AndroidStudioProjects\Flutter-OCR-Scanner\android\app\src\debug\AndroidManifest.xml
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\323ae93e7fa6d6d5282314ee25e3a208\AndroidManifest.xml:23:9-26:75
+		INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\android\app\src\debug\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_storage] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_storage\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\0073560ee2ae5e4ea00bc6a6d45267df\AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\0073560ee2ae5e4ea00bc6a6d45267df\AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-firestore-21.3.0.aar\8627136154404d0524552e881a6d7bae\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-firestore-21.3.0.aar\8627136154404d0524552e881a6d7bae\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\66d129e628896332bd2e652b232b1e72\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\66d129e628896332bd2e652b232b1e72\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-common-19.3.0.aar\f70b8392b38212badf278b9ec5c49551\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-common-19.3.0.aar\f70b8392b38212badf278b9ec5c49551\AndroidManifest.xml:32:9-36:35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\323ae93e7fa6d6d5282314ee25e3a208\AndroidManifest.xml:25:13-37
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\323ae93e7fa6d6d5282314ee25e3a208\AndroidManifest.xml:26:13-72
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-firestore-21.3.0.aar\8627136154404d0524552e881a6d7bae\AndroidManifest.xml:19:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-common-19.3.0.aar\f70b8392b38212badf278b9ec5c49551\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-common-19.3.0.aar\f70b8392b38212badf278b9ec5c49551\AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\323ae93e7fa6d6d5282314ee25e3a208\AndroidManifest.xml:24:13-79
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1d228aadc81cc741a07885bd3bef5b4b\AndroidManifest.xml:23:9-25:69
+		ADDED from [:firebase_storage] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_storage\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_storage] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_storage\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1d228aadc81cc741a07885bd3bef5b4b\AndroidManifest.xml:25:13-66
+		ADDED from [:firebase_storage] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_storage\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Eugen - Work\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1d228aadc81cc741a07885bd3bef5b4b\AndroidManifest.xml:24:13-58
+		ADDED from [:firebase_storage] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_storage\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:10:17-126
+meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_auth] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:10:17-122
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar
+ADDED from [:cloud_firestore] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:10:17-133
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_core] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:10:17-123
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] C:\Users\stefa\AndroidStudioProjects\OCR-Flutter\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:17-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\0073560ee2ae5e4ea00bc6a6d45267df\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-firestore-21.3.0.aar\8627136154404d0524552e881a6d7bae\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-firestore-21.3.0.aar\8627136154404d0524552e881a6d7bae\AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\grpc-android-1.21.0.aar\1416760531156f1220ea15e312fbfdfc\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\grpc-android-1.21.0.aar\1416760531156f1220ea15e312fbfdfc\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\0073560ee2ae5e4ea00bc6a6d45267df\AndroidManifest.xml:26:22-76
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\0073560ee2ae5e4ea00bc6a6d45267df\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\0073560ee2ae5e4ea00bc6a6d45267df\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\0073560ee2ae5e4ea00bc6a6d45267df\AndroidManifest.xml:32:17-107
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-firestore-21.3.0.aar\8627136154404d0524552e881a6d7bae\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-firestore-21.3.0.aar\8627136154404d0524552e881a6d7bae\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-firestore-21.3.0.aar\8627136154404d0524552e881a6d7bae\AndroidManifest.xml:21:17-111
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\66d129e628896332bd2e652b232b1e72\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\66d129e628896332bd2e652b232b1e72\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\66d129e628896332bd2e652b232b1e72\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\66d129e628896332bd2e652b232b1e72\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\66d129e628896332bd2e652b232b1e72\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\66d129e628896332bd2e652b232b1e72\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\66d129e628896332bd2e652b232b1e72\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\66d129e628896332bd2e652b232b1e72\AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\66d129e628896332bd2e652b232b1e72\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\66d129e628896332bd2e652b232b1e72\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\66d129e628896332bd2e652b232b1e72\AndroidManifest.xml:37:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-common-19.3.0.aar\f70b8392b38212badf278b9ec5c49551\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-common-19.3.0.aar\f70b8392b38212badf278b9ec5c49551\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-common-19.3.0.aar\f70b8392b38212badf278b9ec5c49551\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-common-19.3.0.aar\f70b8392b38212badf278b9ec5c49551\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\firebase-common-19.3.0.aar\f70b8392b38212badf278b9ec5c49551\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\0ce947585c860b20a6bddc78642a95e6\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\0ce947585c860b20a6bddc78642a95e6\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\0ce947585c860b20a6bddc78642a95e6\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\0ce947585c860b20a6bddc78642a95e6\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-basement-17.0.0.aar\4aef385a0e333faf84f5008a9ac2f069\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-basement-17.0.0.aar\4aef385a0e333faf84f5008a9ac2f069\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\stefa\.gradle\caches\transforms-1\files-1.1\play-services-basement-17.0.0.aar\4aef385a0e333faf84f5008a9ac2f069\AndroidManifest.xml:24:13-58
